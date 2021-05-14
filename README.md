@@ -1,5 +1,7 @@
 # Responsive React Navbar with Router (Hamburger menu in mobile view)
 
+![Navbar with Router](https://user-images.githubusercontent.com/63094930/118259128-65da4c80-b4ce-11eb-892d-bebcd7a38e45.gif)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
